@@ -1,6 +1,6 @@
 {
   "name": "diff-viewer",
-  "homepage": "http://AnaOlashyn.github.io/diff-viewer",
+  "homepage": "http://anaolashyn.github.io/diff-viewer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
