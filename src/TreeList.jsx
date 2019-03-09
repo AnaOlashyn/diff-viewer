@@ -17,7 +17,6 @@ export class TreeList extends React.Component {
   }
 
   handleClick(e, index) {
-
     this.props.onChangeDisplay(index);
 
   }
